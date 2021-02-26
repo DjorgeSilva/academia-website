@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/agencia.git/static/js/main.d8ebffc7.chunk.js",
-    "main.js.map": "/agencia.git/static/js/main.d8ebffc7.chunk.js.map",
-    "runtime-main.js": "/agencia.git/static/js/runtime-main.874550b4.js",
-    "runtime-main.js.map": "/agencia.git/static/js/runtime-main.874550b4.js.map",
-    "static/js/2.142fc714.chunk.js": "/agencia.git/static/js/2.142fc714.chunk.js",
-    "static/js/2.142fc714.chunk.js.map": "/agencia.git/static/js/2.142fc714.chunk.js.map",
-    "index.html": "/agencia.git/index.html",
-    "static/js/2.142fc714.chunk.js.LICENSE.txt": "/agencia.git/static/js/2.142fc714.chunk.js.LICENSE.txt"
+    "main.js": "/agencia/static/js/main.d8ebffc7.chunk.js",
+    "main.js.map": "/agencia/static/js/main.d8ebffc7.chunk.js.map",
+    "runtime-main.js": "/agencia/static/js/runtime-main.38f87c8b.js",
+    "runtime-main.js.map": "/agencia/static/js/runtime-main.38f87c8b.js.map",
+    "static/js/2.142fc714.chunk.js": "/agencia/static/js/2.142fc714.chunk.js",
+    "static/js/2.142fc714.chunk.js.map": "/agencia/static/js/2.142fc714.chunk.js.map",
+    "index.html": "/agencia/index.html",
+    "static/js/2.142fc714.chunk.js.LICENSE.txt": "/agencia/static/js/2.142fc714.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.874550b4.js",
+    "static/js/runtime-main.38f87c8b.js",
     "static/js/2.142fc714.chunk.js",
     "static/js/main.d8ebffc7.chunk.js"
   ]
