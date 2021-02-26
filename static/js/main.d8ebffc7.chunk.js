@@ -1,0 +1,2 @@
+(this.webpackJsonpuber=this.webpackJsonpuber||[]).push([[0],{9:function(e,n,r){"use strict";r.r(n);r(1);var t=r(3),c=r.n(t),s=r(0);var i=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Working"})})};c.a.render(Object(s.jsx)(i,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.d8ebffc7.chunk.js.map
