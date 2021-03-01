@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/agencia/static/js/main.fa6091c4.chunk.js",
-    "main.js.map": "/agencia/static/js/main.fa6091c4.chunk.js.map",
+    "main.js": "/agencia/static/js/main.2c769b6b.chunk.js",
+    "main.js.map": "/agencia/static/js/main.2c769b6b.chunk.js.map",
     "runtime-main.js": "/agencia/static/js/runtime-main.38f87c8b.js",
     "runtime-main.js.map": "/agencia/static/js/runtime-main.38f87c8b.js.map",
     "static/css/2.150d169a.chunk.css": "/agencia/static/css/2.150d169a.chunk.css",
-    "static/js/2.ab9525c6.chunk.js": "/agencia/static/js/2.ab9525c6.chunk.js",
-    "static/js/2.ab9525c6.chunk.js.map": "/agencia/static/js/2.ab9525c6.chunk.js.map",
+    "static/js/2.cb13f8c1.chunk.js": "/agencia/static/js/2.cb13f8c1.chunk.js",
+    "static/js/2.cb13f8c1.chunk.js.map": "/agencia/static/js/2.cb13f8c1.chunk.js.map",
     "index.html": "/agencia/index.html",
     "static/css/2.150d169a.chunk.css.map": "/agencia/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.ab9525c6.chunk.js.LICENSE.txt": "/agencia/static/js/2.ab9525c6.chunk.js.LICENSE.txt",
+    "static/js/2.cb13f8c1.chunk.js.LICENSE.txt": "/agencia/static/js/2.cb13f8c1.chunk.js.LICENSE.txt",
     "static/media/about-banner.b9f9aa89.png": "/agencia/static/media/about-banner.b9f9aa89.png",
     "static/media/about.e4e6906b.jpg": "/agencia/static/media/about.e4e6906b.jpg",
     "static/media/contato.9b901ad9.webp": "/agencia/static/media/contato.9b901ad9.webp",
@@ -20,6 +20,7 @@
     "static/media/infosite4.73c3a918.webp": "/agencia/static/media/infosite4.73c3a918.webp",
     "static/media/infosite5.6e4d897f.webp": "/agencia/static/media/infosite5.6e4d897f.webp",
     "static/media/logo.a32eed70.png": "/agencia/static/media/logo.a32eed70.png",
+    "static/media/servico-banner.d90b78de.jpg": "/agencia/static/media/servico-banner.d90b78de.jpg",
     "static/media/slider-1.8c4f4598.png": "/agencia/static/media/slider-1.8c4f4598.png",
     "static/media/slider-2.a932a191.jpg": "/agencia/static/media/slider-2.a932a191.jpg",
     "static/media/slider-3.5210eef4.jpg": "/agencia/static/media/slider-3.5210eef4.jpg"
@@ -27,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.38f87c8b.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.ab9525c6.chunk.js",
-    "static/js/main.fa6091c4.chunk.js"
+    "static/js/2.cb13f8c1.chunk.js",
+    "static/js/main.2c769b6b.chunk.js"
   ]
 }
