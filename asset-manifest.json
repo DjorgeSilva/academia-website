@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/agencia/static/js/main.797696e9.chunk.js",
-    "main.js.map": "/agencia/static/js/main.797696e9.chunk.js.map",
+    "main.js": "/agencia/static/js/main.36cbc02c.chunk.js",
+    "main.js.map": "/agencia/static/js/main.36cbc02c.chunk.js.map",
     "runtime-main.js": "/agencia/static/js/runtime-main.38f87c8b.js",
     "runtime-main.js.map": "/agencia/static/js/runtime-main.38f87c8b.js.map",
     "static/css/2.150d169a.chunk.css": "/agencia/static/css/2.150d169a.chunk.css",
-    "static/js/2.49440ce2.chunk.js": "/agencia/static/js/2.49440ce2.chunk.js",
-    "static/js/2.49440ce2.chunk.js.map": "/agencia/static/js/2.49440ce2.chunk.js.map",
+    "static/js/2.566d645a.chunk.js": "/agencia/static/js/2.566d645a.chunk.js",
+    "static/js/2.566d645a.chunk.js.map": "/agencia/static/js/2.566d645a.chunk.js.map",
     "index.html": "/agencia/index.html",
     "static/css/2.150d169a.chunk.css.map": "/agencia/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.49440ce2.chunk.js.LICENSE.txt": "/agencia/static/js/2.49440ce2.chunk.js.LICENSE.txt",
+    "static/js/2.566d645a.chunk.js.LICENSE.txt": "/agencia/static/js/2.566d645a.chunk.js.LICENSE.txt",
     "static/media/about-banner.b9f9aa89.png": "/agencia/static/media/about-banner.b9f9aa89.png",
     "static/media/about.e4e6906b.jpg": "/agencia/static/media/about.e4e6906b.jpg",
     "static/media/academia-main-page.e6adb1a7.png": "/agencia/static/media/academia-main-page.e6adb1a7.png",
@@ -28,12 +28,13 @@
     "static/media/servico-banner.d90b78de.jpg": "/agencia/static/media/servico-banner.d90b78de.jpg",
     "static/media/slider-1.8c4f4598.png": "/agencia/static/media/slider-1.8c4f4598.png",
     "static/media/slider-2.a932a191.jpg": "/agencia/static/media/slider-2.a932a191.jpg",
-    "static/media/slider-3.5210eef4.jpg": "/agencia/static/media/slider-3.5210eef4.jpg"
+    "static/media/sphene-page.75a16f88.png": "/agencia/static/media/sphene-page.75a16f88.png",
+    "static/media/studio-x-page.a89e205b.png": "/agencia/static/media/studio-x-page.a89e205b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.38f87c8b.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.49440ce2.chunk.js",
-    "static/js/main.797696e9.chunk.js"
+    "static/js/2.566d645a.chunk.js",
+    "static/js/main.36cbc02c.chunk.js"
   ]
 }
