@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.js": "/agencia/static/js/main.36cbc02c.chunk.js",
-    "main.js.map": "/agencia/static/js/main.36cbc02c.chunk.js.map",
+    "main.js": "/agencia/static/js/main.d1c604db.chunk.js",
+    "main.js.map": "/agencia/static/js/main.d1c604db.chunk.js.map",
     "runtime-main.js": "/agencia/static/js/runtime-main.38f87c8b.js",
     "runtime-main.js.map": "/agencia/static/js/runtime-main.38f87c8b.js.map",
     "static/css/2.150d169a.chunk.css": "/agencia/static/css/2.150d169a.chunk.css",
-    "static/js/2.566d645a.chunk.js": "/agencia/static/js/2.566d645a.chunk.js",
-    "static/js/2.566d645a.chunk.js.map": "/agencia/static/js/2.566d645a.chunk.js.map",
+    "static/js/2.46499ca6.chunk.js": "/agencia/static/js/2.46499ca6.chunk.js",
+    "static/js/2.46499ca6.chunk.js.map": "/agencia/static/js/2.46499ca6.chunk.js.map",
     "index.html": "/agencia/index.html",
     "static/css/2.150d169a.chunk.css.map": "/agencia/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.566d645a.chunk.js.LICENSE.txt": "/agencia/static/js/2.566d645a.chunk.js.LICENSE.txt",
+    "static/js/2.46499ca6.chunk.js.LICENSE.txt": "/agencia/static/js/2.46499ca6.chunk.js.LICENSE.txt",
     "static/media/about-banner.b9f9aa89.png": "/agencia/static/media/about-banner.b9f9aa89.png",
     "static/media/about.e4e6906b.jpg": "/agencia/static/media/about.e4e6906b.jpg",
     "static/media/academia-main-page.e6adb1a7.png": "/agencia/static/media/academia-main-page.e6adb1a7.png",
+    "static/media/banner3.5b5bc176.jpg": "/agencia/static/media/banner3.5b5bc176.jpg",
     "static/media/construservice-page.902f6667.png": "/agencia/static/media/construservice-page.902f6667.png",
     "static/media/contato-banner.f7c2055e.jpg": "/agencia/static/media/contato-banner.f7c2055e.jpg",
     "static/media/contato.9b901ad9.webp": "/agencia/static/media/contato.9b901ad9.webp",
-    "static/media/info-bg.519bcbf3.jpg": "/agencia/static/media/info-bg.519bcbf3.jpg",
+    "static/media/icone-tech2.3c40d7a0.png": "/agencia/static/media/icone-tech2.3c40d7a0.png",
     "static/media/infosite1.3fb6a26a.webp": "/agencia/static/media/infosite1.3fb6a26a.webp",
     "static/media/infosite2.46b6612a.webp": "/agencia/static/media/infosite2.46b6612a.webp",
     "static/media/infosite3.177e6c80.webp": "/agencia/static/media/infosite3.177e6c80.webp",
@@ -25,6 +26,7 @@
     "static/media/logo.a32eed70.png": "/agencia/static/media/logo.a32eed70.png",
     "static/media/oniq-page.b3ecb0eb.png": "/agencia/static/media/oniq-page.b3ecb0eb.png",
     "static/media/pizzaria-conexao-page.7747f3d3.png": "/agencia/static/media/pizzaria-conexao-page.7747f3d3.png",
+    "static/media/rates.e452c7e6.jpg": "/agencia/static/media/rates.e452c7e6.jpg",
     "static/media/servico-banner.d90b78de.jpg": "/agencia/static/media/servico-banner.d90b78de.jpg",
     "static/media/slider-1.8c4f4598.png": "/agencia/static/media/slider-1.8c4f4598.png",
     "static/media/slider-2.a932a191.jpg": "/agencia/static/media/slider-2.a932a191.jpg",
@@ -34,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.38f87c8b.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.566d645a.chunk.js",
-    "static/js/main.36cbc02c.chunk.js"
+    "static/js/2.46499ca6.chunk.js",
+    "static/js/main.d1c604db.chunk.js"
   ]
 }
